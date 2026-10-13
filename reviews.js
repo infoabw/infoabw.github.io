@@ -4,5 +4,5 @@
 // {name: "Ahmed", rating: 5, text: "Great work and fast delivery.", date: "October 2026"},
 //
 window.REVIEWS = [
-
+{name: "Ahmed", rating: 5, text: "Great work and fast delivery.", date: "October 2026"},
 ];
