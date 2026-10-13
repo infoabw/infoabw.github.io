@@ -6,3 +6,6 @@
 # Ahmed | 5 | Great work and fast delivery. | October 2026
 #
 # Lines that start with # are ignored. Do not use the | sign inside the review text.
+
+Ahmed | 5 | Great work and fast delivery. | October 2026
+Sara | 4 | Nice vector portrait. | November 2026
